@@ -1,4 +1,5 @@
 # Step 1: Import Libraries and Load the Model
+pip install --upgrade pip
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.datasets import imdb
