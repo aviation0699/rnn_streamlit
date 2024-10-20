@@ -1,5 +1,8 @@
 # Step 1: Import Libraries and Load the Model
 pip install --upgrade pip
+pip install streamlit
+pip install tensorflow==2.16.0
+
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.datasets import imdb
